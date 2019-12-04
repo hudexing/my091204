@@ -1,3 +1,5 @@
 github 1 line
 git remote add
 git remote show hdx/origin
+git config --loacl user.name user.email
+
