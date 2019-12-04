@@ -3,3 +3,5 @@ git remote add
 git remote show hdx/origin
 git config --loacl user.name " xx "
 git config --local user.email " xx ""
+git push -u hdx
+
