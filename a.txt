@@ -2,14 +2,11 @@ github 1 line
 git remote add
 git remote show hdx/origin
 git config --loacl user.name " xx "
-git config --local user.email " xx ""
 git push -u hdx
 git branch -av
-
 This is second user!
 This is first preson write!
 This is first person write 2!
 This is second person write 2!
 second person write 6!
-
 
