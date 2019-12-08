@@ -4,9 +4,10 @@ git remote show hdx/origin
 git config --loacl user.name " xx "
 git push -u hdx
 git branch -av
-This is second user!
+iThis is second user!
 This is first preson write!
 This is first person write 2!
 This is second person write 2!
 second person write 6!
 
+baseball first person write!
